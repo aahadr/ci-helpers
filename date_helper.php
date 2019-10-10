@@ -7,7 +7,7 @@
 	     * custom time span dengan > 5 hari berubah menjadi date biasa
 	     *
 	     * @return void
-	     * @author 
+	     * @author Ayatulloh Ahad R - ayatulloh@idprogrammer.com
 	     **/
 	    function time_span( $post_date = null, $distance = 2 )
 	    {
@@ -38,7 +38,7 @@
 		 * undocumented function
 		 *
 		 * @return void
-		 * @author Ayatulloh Ahad r
+		 * @author Ayatulloh Ahad R - ayatulloh@idprogrammer.com
 		 **/
 		function howdy( $string = 'Guest' )
 		{
