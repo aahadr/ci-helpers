@@ -3,6 +3,8 @@
 /**
  * Terbilang Helper
  *
+ * NB: Terimakasih author yang sudah membuat fungsi ini. agar tidak susah nyari2 kembali saya kumpulkan di repositori sendiri.
+ *
  * @package	CodeIgniter
  * @subpackage	Helpers
  * @category	Helpers
